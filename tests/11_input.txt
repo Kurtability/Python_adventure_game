@@ -1,0 +1,7 @@
+N
+SHINE SHIELD
+N
+E
+W
+S
+QUIT

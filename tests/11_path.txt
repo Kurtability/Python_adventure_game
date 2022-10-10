@@ -1,0 +1,4 @@
+Entrance > NORTH > Foyer
+Courtyard > SOUTH > Foyer
+Parlour > WEST > Foyer
+Workshop > EAST > Foyer

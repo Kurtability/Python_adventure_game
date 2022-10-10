@@ -1,0 +1,49 @@
+
++---------NN---------+
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
++--------------------+
+You are standing at the Entrance.
+There is nothing to do here.
+
+>>>
+You move to the north, arriving at the Foyer.
+
++--------------------+
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
++--------------------+
+You are standing at the Foyer.
+An old, battered shield rests against the wall here.
+
+>>>
+The shield shines and shimmers like a mirror made of steel. You decide to take it with you.
+
+>>>
+You can't go that way.
+
+>>>
+You can't go that way.
+
+>>>
+You can't go that way.
+
+>>>
+You can't go that way.
+
+>>>
+Bye!

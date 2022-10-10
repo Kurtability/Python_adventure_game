@@ -1,0 +1,4 @@
+Singing Sword | SWORD | 10 | 0
+Shimmering Shield | SHIELD | 5 | 0
+Trembling Tome | TOME | 0 | -7
+Glistening Goblet | GOBLET | -30 | 0

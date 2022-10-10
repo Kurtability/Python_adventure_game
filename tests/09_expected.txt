@@ -1,0 +1,142 @@
+
++---------NN---------+
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
++--------------------+
+You are standing at the Entrance.
+There is nothing to do here.
+
+>>>
+You move to the north, arriving at the Foyer.
+
++---------NN---------+
+|                    |
+|                    |
+|                    |
+|                    |
+E                    W
+|                    |
+|                    |
+|                    |
+|                    |
++---------SS---------+
+You are standing at the Foyer.
+An old, battered shield rests against the wall here.
+
+>>>
+The shield shines and shimmers like a mirror made of steel. You decide to take it with you.
+
+>>>
+#00: Singing Sword - PULL the sword from the stone. [COMPLETED]
+#01: Shimmering Shield - SHINE an old shield until it shimmers.
+#02: Trembling Tome - CALM a trembling tome in the workshop.
+#03: Glistening Goblet - STEAL a glistening goblet from a distracted denizen.
+
+>>>
+You move to the north, arriving at the Courtyard.
+
++--------------------+
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
++---------SS---------+
+You are standing at the Courtyard.
+A beautiful silver sword has been wedged deep into a stone pedestal here.
+
+>>>
+You heave against the stone and pull the sword free from its grasp. You hear the sharp hum of the blade as it moves through the air - a job well-accomplished.
+
+>>>
+You move to the south, arriving at the Foyer.
+
++---------NN---------+
+|                    |
+|                    |
+|                    |
+|                    |
+E                    W
+|                    |
+|                    |
+|                    |
+|                    |
++---------SS---------+
+You are standing at the Foyer.
+There is nothing of note here.
+
+>>>
+You move to the east, arriving at the Parlour.
+
++--------------------+
+|                    |
+|                    |
+|                    |
+|                    |
+|                    W
+|                    |
+|                    |
+|                    |
+|                    |
++--------------------+
+You are standing at the Parlour.
+A couple of fat cats are here, playing cards. They stop from time to time to drink from the glistening, ruby-encrusted goblets beside them, to varying degrees of success.
+
+>>>
+You distract one of the cats for a good while, just petting it. The fur is really soft, and they purr receptively to your touch - which is just as well, because that gives you the time to steal a Glistening Goblet from right under their noses.
+
+>>>
+You move to the west, arriving at the Foyer.
+
++---------NN---------+
+|                    |
+|                    |
+|                    |
+|                    |
+E                    W
+|                    |
+|                    |
+|                    |
+|                    |
++---------SS---------+
+You are standing at the Foyer.
+There is nothing of note here.
+
+>>>
+You move to the west, arriving at the Workshop.
+
++--------------------+
+|                    |
+|                    |
+|                    |
+|                    |
+E                    |
+|                    |
+|                    |
+|                    |
+|                    |
++--------------------+
+You are standing at the Workshop.
+A voluminous tome trembles violently in its bookshelf, threatening to bring the whole thing down on itself.
+
+>>>
+You reach out and stroke along the spine of the Trembling Tome. You hear the sound of ruffling pages, and the shuddering stops, allowing you to check out the book with no problems.
+
+>>>
+#00: Singing Sword - PULL the sword from the stone. [COMPLETED]
+#01: Shimmering Shield - SHINE an old shield until it shimmers. [COMPLETED]
+#02: Trembling Tome - CALM a trembling tome in the workshop. [COMPLETED]
+#03: Glistening Goblet - STEAL a glistening goblet from a distracted denizen. [COMPLETED]
+
+=== All quests complete! Congratulations! ===

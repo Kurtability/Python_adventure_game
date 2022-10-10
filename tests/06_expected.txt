@@ -1,0 +1,153 @@
+
++---------NN---------+
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
++--------------------+
+You are standing at the Entrance.
+There is nothing to do here.
+
+>>>
+You move to the north, arriving at the Foyer.
+
++---------NN---------+
+|                    |
+|                    |
+|                    |
+|                    |
+E                    W
+|                    |
+|                    |
+|                    |
+|                    |
++---------SS---------+
+You are standing at the Foyer.
+An old, battered shield rests against the wall here.
+
+>>>
+You move to the north, arriving at the Courtyard.
+
++--------------------+
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
++---------SS---------+
+You are standing at the Courtyard.
+A beautiful silver sword has been wedged deep into a stone pedestal here.
+
+>>>
+You move to the south, arriving at the Foyer.
+
++---------NN---------+
+|                    |
+|                    |
+|                    |
+|                    |
+E                    W
+|                    |
+|                    |
+|                    |
+|                    |
++---------SS---------+
+You are standing at the Foyer.
+An old, battered shield rests against the wall here.
+
+>>>
+You move to the east, arriving at the Parlour.
+
++--------------------+
+|                    |
+|                    |
+|                    |
+|                    |
+|                    W
+|                    |
+|                    |
+|                    |
+|                    |
++--------------------+
+You are standing at the Parlour.
+A couple of fat cats are here, playing cards. They stop from time to time to drink from the glistening, ruby-encrusted goblets beside them, to varying degrees of success.
+
+>>>
+You move to the west, arriving at the Foyer.
+
++---------NN---------+
+|                    |
+|                    |
+|                    |
+|                    |
+E                    W
+|                    |
+|                    |
+|                    |
+|                    |
++---------SS---------+
+You are standing at the Foyer.
+An old, battered shield rests against the wall here.
+
+>>>
+You move to the west, arriving at the Workshop.
+
++--------------------+
+|                    |
+|                    |
+|                    |
+|                    |
+E                    |
+|                    |
+|                    |
+|                    |
+|                    |
++--------------------+
+You are standing at the Workshop.
+A voluminous tome trembles violently in its bookshelf, threatening to bring the whole thing down on itself.
+
+>>>
+You move to the east, arriving at the Foyer.
+
++---------NN---------+
+|                    |
+|                    |
+|                    |
+|                    |
+E                    W
+|                    |
+|                    |
+|                    |
+|                    |
++---------SS---------+
+You are standing at the Foyer.
+An old, battered shield rests against the wall here.
+
+>>>
+You move to the south, arriving at the Entrance.
+
++---------NN---------+
+|                    |
+|                    |
+|                    |
+|                    |
+E                    W
+|                    |
+|                    |
+|                    |
+|                    |
++---------SS---------+
+You are standing at the Entrance.
+There is nothing to do here.
+
+>>>
+Bye!

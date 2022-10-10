@@ -1,0 +1,62 @@
+
++---------NN---------+
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
++--------------------+
+You are standing at the Entrance.
+There is nothing to do here.
+
+>>>
+You move to the north, arriving at the Foyer.
+
++---------NN---------+
+|                    |
+|                    |
+|                    |
+|                    |
+E                    W
+|                    |
+|                    |
+|                    |
+|                    |
++---------SS---------+
+You are standing at the Foyer.
+An old, battered shield rests against the wall here.
+
+>>>
+You move to the north, arriving at the Courtyard.
+
++--------------------+
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
++---------SS---------+
+You are standing at the Courtyard.
+A beautiful silver sword has been wedged deep into a stone pedestal here.
+
+>>>
+You are carrying:
+Nothing
+
+>>>
+You struggle to pull the sword from the stone, but despite your best efforts, it doesn't budge.
+
+>>>
+You are carrying:
+Nothing
+
+>>>
+Bye!

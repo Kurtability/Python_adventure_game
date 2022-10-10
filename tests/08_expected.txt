@@ -1,0 +1,57 @@
+
++---------NN---------+
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
++--------------------+
+You are standing at the Entrance.
+There is nothing to do here.
+
+>>>
+You move to the north, arriving at the Foyer.
+
++---------NN---------+
+|                    |
+|                    |
+|                    |
+|                    |
+E                    W
+|                    |
+|                    |
+|                    |
+|                    |
++---------SS---------+
+You are standing at the Foyer.
+An old, battered shield rests against the wall here.
+
+>>>
+The shield shines and shimmers like a mirror made of steel. You decide to take it with you.
+
+>>>
+You are carrying:
+- A Shimmering Shield
+
+>>>
+
++---------NN---------+
+|                    |
+|                    |
+|                    |
+|                    |
+E                    W
+|                    |
+|                    |
+|                    |
+|                    |
++---------SS---------+
+You are standing at the Foyer.
+There is nothing of note here.
+
+>>>
+Bye!

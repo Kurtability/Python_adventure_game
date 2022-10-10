@@ -1,0 +1,6 @@
+Entrance > NORTH > Garden
+Garden > EAST > Parlour
+Garden > SOUTH > Entrance
+Parlour > WEST > Garden
+Parlour > SOUTH > Workshop
+Workshop > NORTH > Parlour
